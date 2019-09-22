@@ -531,6 +531,8 @@ dtb-$(CONFIG_SOC_IMX6ULL) += \
 	imx6ull-14x14-evk-gpmi-weim.dtb \
 	imx6ull-14x14-evk-usb-certi.dtb \
 	imx6ull-airsniffer.dtb \
+	imx6ull-innostick6-hbc05.dtb \
+	imx6ull-innostick6-hbc05-goodix.dtb \
 	imx6ull-innostick6.dtb \
 	imx6ull-9x9-evk.dtb \
 	imx6ull-9x9-evk-btwifi.dtb \
